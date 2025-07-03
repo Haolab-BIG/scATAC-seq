@@ -12,6 +12,7 @@ The pipeline consists of the following stages:
 2. **Raw Data Quality Control**: Sequencing, cell-level, library, mapping, and targeting metrics  
 3. **Signac-Based Data Cleaning**: Creating Seurat objects and applying filtering thresholds
 
+![image](https://github.com/user-attachments/assets/30b16295-9374-4e91-895f-7959afcda36d)
 ---
 
 ## 🧬 Part I: Primary Processing (`FASTQ` → `filtered_peak_bc_matrix/`)
