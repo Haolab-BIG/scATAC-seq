@@ -199,9 +199,3 @@ pbmc <- subset(pbmc,
 - Satija Lab Seurat Documentation  
 
 ---
-
-## 🧵 To Do
-
-- [ ] Add multi-sample support  
-- [ ] Integrate ArchR-based alternative  
-- [ ] Export cleaned fragment files for downstream trajectory analysis  
